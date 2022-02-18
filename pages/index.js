@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <p>[I iz a Gaffyn.]</p>
         <p>
           (This is a sample website, can you tell? - 'ere 'av a laff at{' '}
-          <a href="https://swearballs.netlify.app">a Swear Generator</a>.)
+          <a href="https://swearballs.netlify.app" target="_blank">a Swear Generator</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
