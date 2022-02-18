@@ -1,6 +1,6 @@
 ---
 title: 'Bloggox  -  A journey into Next.js'
-date: '2022-18-02'
+date: '2022-02-18'
 ---
 
 So here is: **Bloggox** a journey into **Next.js (or me just biffing about)**. 
