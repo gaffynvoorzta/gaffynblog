@@ -16,4 +16,3 @@ I am going to need **Several Things** for my `journey`
 - **Some Other Stuff** *had it all written down somewhere* 
 
 `They sound like they are getting closer now...`
-:japanese_goblin: :japanese_goblin: :japanese_goblin: :japanese_goblin:
